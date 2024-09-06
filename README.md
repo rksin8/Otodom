@@ -6,9 +6,9 @@ This project involves a comprehensive analysis of real estate trends in Poland u
 
 ## Key Objectives:
 
-**Identify Pricing Trends:** Determine how apartment prices correlate with surface area across different Polish cities.
+- Identify Pricing Trends: Determine how apartment prices correlate with surface area across different Polish cities.
 
-**Market Insights:** Highlight which cities and suburbs exhibit the highest average property prices and luxury market trends.
+- **Market Insights:** Highlight which cities and suburbs exhibit the highest average property prices and luxury market trends.
 
 **Business vs. Private Listings:** Analyze the proportion of property ads posted by businesses compared to private individuals.
 
